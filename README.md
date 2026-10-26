@@ -15,6 +15,10 @@ npm run dev
 
 浏览器打开终端显示的本地地址，默认 http://127.0.0.1:5173 。
 
+启动开发服务后，访问 [http://127.0.0.1:5173/](http://127.0.0.1:5173/)，界面如下：
+
+![结构实验室运行界面：顺序表可视化与操作面板](docs/images/app-preview.png)
+
 ```sh
 npm test        # 算法与边界测试
 npm run build  # 生成 dist
